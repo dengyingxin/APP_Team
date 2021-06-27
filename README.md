@@ -3,7 +3,7 @@
 # 项目介绍
 
 * 小组协作式Axure项目  
-* [项目PAGE地址]（https://dengyingxin.github.io/APP_Team/）
+* [项目PAGE地址](https://dengyingxin.github.io/APP_Team/ )
 * 中山大学南方学院 文学与传媒学院 网络与新媒体专业
 * 成员：邓颖欣 陈珂 高晋詠 何睿 黄炜 王重乔 张海青
 # 1.产品方向
