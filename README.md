@@ -62,12 +62,6 @@
 随着中国经济的结构性转化升级，越来越多的消费者步入了中产阶级，需求也由物质层面转移到了精神层面，对于优质内容付费的认可度和意愿也在不断提升，大批的连接用户与内容生产者的知识付费平台涌现出来，其中喜马拉雅、得到、在行一点、知乎、蜻蜓FM等占据了当前市场的大部分份额，知识付费行业正处在高速发展的阶段，内容创造者的价值在不断放大。
 
 按内容划分，目前电台类产品包括纯PGC（专业生产内容）和PGC+UGC（用户生成内容）两大阵营，像考拉FM、豆瓣FM、懒人听书属于第一阵营；喜马拉雅、荔枝FM属于第二阵营。另外，车联网的兴起，也给移动电台新的机会。目前国内城市道路拥挤状况的加剧，路上花费的时间不断拉长，车载场景又具有良好的收听环境，音乐、电台应用将作为丰富的内容支撑，发展前景非常可观，因此，以考拉FM、喜马拉雅FM、多听FM、蜻蜓FM等为代表的电台应用都在主打用户车内场景收听，除了与多家汽车品牌商达成前装合作外，也在通过推出智能硬件进入车载市场，加大移动电台对车内场景的布局。  
-## 3.2市场竞争
-
-根据最新数据，喜马拉雅FM的用户数为1.6亿，市场份额为25.8%。这意味着：
-
-* 移动电台应用市场规模为6.20亿
-* 全国人口约14亿。假设有70%的人口有收听电台的需求，那么移动电台应用的潜在市场规模为9.8亿
 
 ## 2.2目的
 
@@ -117,4 +111,11 @@ PEST是从政治（Politics）、经济（Economic）、社会（Society）、�
 ## 4.1用户需求分析  
 ![](https://raw.githubusercontent.com/dengyingxin/APP_Team/main/images/userprofile_student.png)
 ![](https://raw.githubusercontent.com/dengyingxin/APP_Team/main/images/userprofile_studio.png)
-![](https://raw.githubusercontent.com/dengyingxin/APP_Team/main/images/userprofile_worker.png)
+![](https://raw.githubusercontent.com/dengyingxin/APP_Team/main/images/userprofile_worker.png)  
+
+## 4.2用户场景和需求
+
+![用户场景和需求](https://github.com/dengyingxin/APP_Team/blob/main/images/app_user_frame.png)
+
+* 产出者：发布作品方便快捷，有稳定的曝光渠道和粉丝来源，可以收获成就感和他人的评价；
+* 收听者：有广泛的资源，有大量的声优群体，有共同兴趣爱好的圈内人交流
