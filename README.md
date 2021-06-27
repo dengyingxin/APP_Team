@@ -112,7 +112,12 @@ PEST是从政治（Politics）、经济（Economic）、社会（Society）、�
 根据最新数据，喜马拉雅FM的用户数为1.6亿，市场份额为25.8%。这意味着：
 
 * 移动电台应用市场规模为6.20亿
-* 全国人口约14亿。假设有70%的人口有收听电台的需求，那么移动电台应用的潜在市场规模为9.8亿
+* 全国人口约14亿。假设有70%的人口有收听电台的需求，那么移动电台应用的潜在市场规模为9.8亿各移动电台应用市场占比  
 
-各移动电台应用市场占比
-![各移动电台应用市场占比](https://raw.githubusercontent.com/dengyingxin/APP_Team/main/images/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%B8%82%E5%9C%BA%E4%BB%BD%E9%A2%9D.png)
+![各移动电台应用市场占比](https://raw.githubusercontent.com/dengyingxin/APP_Team/main/images/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%B8%82%E5%9C%BA%E4%BB%BD%E9%A2%9D.png)  
+# 4. 需求分析
+
+## 4.1用户需求分析  
+![](https://raw.githubusercontent.com/dengyingxin/APP_Team/main/images/userprofile_student.png)
+![](https://raw.githubusercontent.com/dengyingxin/APP_Team/main/images/userprofile_studio.png)
+![](https://raw.githubusercontent.com/dengyingxin/APP_Team/main/images/userprofile_worker.png)
