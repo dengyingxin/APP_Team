@@ -91,7 +91,7 @@ PEST是从政治（Politics）、经济（Economic）、社会（Society）、�
 随着国民收入增长和音频业务的不断发展，越来越多的精品内容和优质主播涌现，用户付费的意愿显著提升，助推移动互联网时代下音频行业内容变现模式的发展。而且，音频互动模式多样，将用户打赏的商业模式与音频行业很好地结合起来，拓展多元收入。此外，全场景生态的深化发展更是为整个网络音频行业带来更多想象空间，将推动网络音频行业市场规模进一步增长。
 
 根据艾瑞咨询的统计数据显示：2019年，中国网络音频行业市场规模为175.8亿元，同比增长55.1%，预计在2020年至2022年网络音频行业市场规模增长速度会放缓，规模仍会上升。
-![数据来源：艾瑞咨询](https://raw.githubusercontent.com/dengyingxin/APP_Team/main/images/%E8%A1%8C%E4%B8%9A%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1.jpg)
+![数据来源：艾瑞咨询](https://github.com/dengyingxin/APP_Team/blob/main/md_images/%E8%A1%8C%E4%B8%9A%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1.jpg)
 随着我国人均GDP的提升和内容付费产业的快速发展，内容付费的商业模式被广泛接受，网络音频用户的付费意识和付费能力逐渐增强，2018年中国网络核心版权收入规模的用户付费占比高达57%。而且，据艾瑞咨询对网络音频用户付费情况的调研结果来看，76.0%的用户都在音频平台产生付费行为，年平均花费为202.3元，整体付费情况较好。
 此外，二次元、配音等各类潮流文化的涌现，既丰富了音频内容，又聚集了具有相同兴趣、爱好的人群，形成良好循环的声音社区。
 
@@ -106,17 +106,17 @@ PEST是从政治（Politics）、经济（Economic）、社会（Society）、�
 * 移动电台应用市场规模为6.20亿
 * 全国人口约14亿。假设有70%的人口有收听电台的需求，那么移动电台应用的潜在市场规模为9.8亿各移动电台应用市场占比  
 
-![各移动电台应用市场占比](https://raw.githubusercontent.com/dengyingxin/APP_Team/main/images/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%B8%82%E5%9C%BA%E4%BB%BD%E9%A2%9D.png)  
+![各移动电台应用市场占比](https://github.com/dengyingxin/APP_Team/blob/main/md_images/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%B8%82%E5%9C%BA%E4%BB%BD%E9%A2%9D.png)  
 # 4. 需求分析
 
 ## 4.1用户需求分析  
-![](https://raw.githubusercontent.com/dengyingxin/APP_Team/main/images/userprofile_student.png)
-![](https://raw.githubusercontent.com/dengyingxin/APP_Team/main/images/userprofile_studio.png)
-![](https://raw.githubusercontent.com/dengyingxin/APP_Team/main/images/userprofile_worker.png)  
+![](https://github.com/dengyingxin/APP_Team/blob/main/md_images/userprofile_student.png)
+![](https://github.com/dengyingxin/APP_Team/blob/main/md_images/userprofile_worker.png)
+![](https://github.com/dengyingxin/APP_Team/blob/main/md_images/userprofile_studio.png)  
 
 ## 4.2用户场景和需求
 
-![用户场景和需求](https://github.com/dengyingxin/APP_Team/blob/main/images/app_user_frame.png)
+![用户场景和需求](https://github.com/dengyingxin/APP_Team/blob/main/md_images/app_user_frame.png)
 
 * 产出者：发布作品方便快捷，有稳定的曝光渠道和粉丝来源，可以收获成就感和他人的评价；
 * 收听者：有广泛的资源，有大量的声优群体，有共同兴趣爱好的圈内人交流  
@@ -139,7 +139,7 @@ PEST是从政治（Politics）、经济（Economic）、社会（Society）、�
 
 ## 5.3 功能范围对比
 
-![功能范围](https://github.com/dengyingxin/APP_Team/blob/main/images/function.jpg?raw=true)
+![功能范围](https://github.com/dengyingxin/APP_Team/blob/main/md_images/function.jpg)
 
 ## 5.4 产品结构对比
 
@@ -149,7 +149,7 @@ M站用PGC满足主流需求，而很大程度弱化了UGC。M站早期由于过
 
 ## 5.5 视觉表现对比
 
-![视觉表现](https://raw.githubusercontent.com/dengyingxin/APP_Team/main/images/visual.jpg)  
+![视觉表现](https://github.com/dengyingxin/APP_Team/blob/main/md_images/visual.jpg)  
 
 ## 5.6 内容对比
 
@@ -199,4 +199,6 @@ M站用PGC满足主流需求，而很大程度弱化了UGC。M站早期由于过
 
 * M站：CV引流、CV专访、广播剧线下见面会、销售广播剧独家周边、线下主题店、跨界合作
 * 喜马拉雅：鼓励创作，重视版权；新意活动层出不穷，无论是与各大热门综艺的直播投票活动，平台在知识付费领域首创的123知识狂欢节，还是线上、线下不断开展的跨界营销，都有较好的反馈，甚至有多次带来新闻媒体及搜索平台热议。不定时举办针对不同年龄层的平台主播招募，一方面鼓励全民创作和分享，另一方面吸引某年龄段及某些领域的用户们，持续推动原创音频生成，也更加凸显喜马拉雅全民创作的基调；在喜马拉雅平台上，我们经常可以听到合作平台作者有声作品和原创音频制作人及主播的优质音频节目，喜马拉雅给予他们部分流量，增加曝光率。优质的音频节目被听众逐渐认可，最终平台出现各类头部内容生产者，头部内容生产者又再次带来用户，形成良性循环。另外，喜马拉雅充分发挥用户分享、自创听友圈动态、主播互动交友、粉丝团等，认识有共同喜好的人，加好友又可以通过动态了解新境况和分享。这两个体系的叠加，使得喜马拉雅平台用户有围绕感兴趣音频内容进行自由讨论和创作的空间。
+  
+
 
